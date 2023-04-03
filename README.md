@@ -1,7 +1,7 @@
 # RadonDeconvolution
 
 - contents:
-  - Main Filtering and Smoothing functions and demo in toplevel Notebook
+  - Main Filtering and Smoothing functions and demo in toplevel Jupyter-Notebook (.ipynb)
   - Spectrometric data of open (Radon emanating source) in data/gamma-spectra/open_source and of background in data/gamma-spectra/background
   - environmental data in sqlite database in data/temprh.db
   
