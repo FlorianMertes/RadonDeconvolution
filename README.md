@@ -2,6 +2,7 @@
 
 - contents:
   - Main Filtering and Smoothing functions and demo in toplevel Jupyter-Notebook (.ipynb)
+  - this requires/imports IntegrationDiscretization.py which contains analytical solutions to the forward dynamics of the model derived from symbolic computation
   - Spectrometric data of open (Radon emanating source) in data/gamma-spectra/open_source and of background in data/gamma-spectra/background
   - environmental data in sqlite database in data/temprh.db
   
